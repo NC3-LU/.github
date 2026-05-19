@@ -1,6 +1,4 @@
-<div align="center">
-
-<img src="https://github.com/NC3-LU.png" alt="NC3-LU" width="160" style="border-radius: 50%;"/>
+![NC3-LU](https://github.com/NC3-LU.png)
 
 # National Cybersecurity Competence Center Luxembourg
 
@@ -9,8 +7,6 @@
 [![Website](https://img.shields.io/badge/nc3.lu-0066CC?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://nc3.lu)
 [![Email](https://img.shields.io/badge/opensource%40nc3.lu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:opensource@nc3.lu)
 [![GitHub followers](https://img.shields.io/github/followers/NC3-LU?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/NC3-LU)
-
-</div>
 
 ---
 
@@ -49,11 +45,6 @@ NC3 develops and maintains an open-source cybersecurity portfolio spanning **thr
 
 Our work extends across several dedicated GitHub organizations, each focused on a specific domain of cybersecurity:
 
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
 ### 🏛️ [Informed Governance Project](https://github.com/informed-governance-project)
 
 Governance platform components developed by NC3-LU, including the **NIS Incident Notification Platform (NISINP)** and integration with the MONARC risk analysis framework.
@@ -63,9 +54,18 @@ Governance platform components developed by NC3-LU, including the **NIS Incident
 - MONARC integration for risk-driven governance
 - Open governance architecture documentation
 
-</td>
+---
 
-<td width="33%" valign="top">
+### 🛡️ [MONARC](https://github.com/monarc-project)
+
+A tool and method for optimised, precise, and repeatable risk assessment. MONARC enables organisations of all sizes to conduct cost-effective security risk analyses by capitalising on previously identified vulnerabilities and threats across similar business contexts.
+
+**Highlights:**
+- Context establishment, asset modelling, and risk evaluation
+- Reusable knowledge base of threats and vulnerabilities
+- Ongoing security monitoring and reporting
+
+---
 
 ### 🔬 [NC3 Testing Platform](https://github.com/NC3-TestingPlatform)
 
@@ -78,9 +78,7 @@ A modular v4 security and network analysis toolkit for evaluating domains and ma
 - `chainvalidator` — TLS/SSL & DNSSEC chain validation
 - `zoneripper` — DNSSEC zone walking vulnerability testing
 
-</td>
-
-<td width="33%" valign="top">
+---
 
 ### 🎯 [Range#42](https://github.com/range42)
 
@@ -91,11 +89,6 @@ A modular **cyber range platform** built on Proxmox and Ansible, enabling deploy
 - Pre-built lab scenarios (network, offensive, defensive)
 - Reusable role catalog for firewalls, VMs, and security tools
 - Led by NC3 and DIGISQUAD teams
-
-</td>
-
-</tr>
-</table>
 
 ---
 
@@ -118,10 +111,6 @@ For general inquiries or collaboration proposals, reach out at [opensource@nc3.l
 
 ---
 
-<div align="center">
-
 *Building a safer digital Luxembourg — one commit at a time.*
 
 📍 122 rue Adolphe Fischer, L-1521 Luxembourg &nbsp;|&nbsp; 📞 +352 274 00 98 601 &nbsp;|&nbsp; 🌐 [nc3.lu](https://nc3.lu)
-
-</div>
