@@ -52,7 +52,7 @@ Our work extends across several dedicated GitHub organizations, each focused on 
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🏛️ [Informed Governance Project](https://github.com/informed-governance-project)
 
@@ -65,7 +65,7 @@ Governance platform components developed by NC3-LU, including the **NIS Incident
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🔬 [NC3 Testing Platform](https://github.com/NC3-TestingPlatform)
 
@@ -80,7 +80,9 @@ A modular v4 security and network analysis toolkit for evaluating domains and ma
 
 </td>
 
-<td width="33%" valign="top">
+</tr>
+<tr>
+  <td width="50%" valign="top">
 
 ### 🎯 [Range#42](https://github.com/range42)
 
@@ -93,7 +95,17 @@ A modular **cyber range platform** built on Proxmox and Ansible, enabling deploy
 - Led by NC3 and DIGISQUAD teams
 
 </td>
+  <td width="50%" valign="top">
+    ### 🏛️ [openXeco](https://github.com/openXeco)
 
+    openXeco, short for "open exchange for ecosystems" (abbreviated as OXE), is an open-source initiative designed to manage and interconnect ecosystems.
+
+    **Higlights**
+    - Community management
+    - ECCC ATLAS connector
+    - V2 under development
+    
+  </td>
 </tr>
 </table>
 
