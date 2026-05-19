@@ -95,6 +95,19 @@ A modular **cyber range platform** built on Proxmox and Ansible, enabling deploy
 </td>
 
 </tr>
+<tr>
+  <td width="33%" valign="top">
+    ### 🏛️ [openXeco](https://github.com/openXeco)
+
+    openXeco, short for "open exchange for ecosystems" (abbreviated as OXE), is an open-source initiative designed to manage and interconnect ecosystems.
+
+    **Higlights**
+    - Community management
+    - ECCC ATLAS connector
+    - V2 under development
+    
+  </td>
+</tr>
 </table>
 
 ---
