@@ -1,3 +1,5 @@
+<div align="center">
+
 <img src="https://github.com/NC3-LU.png" alt="NC3-LU" width="160" style="border-radius: 50%;"/>
 
 # National Cybersecurity Competence Center Luxembourg
@@ -7,6 +9,8 @@
 [![Website](https://img.shields.io/badge/nc3.lu-0066CC?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://nc3.lu)
 [![Email](https://img.shields.io/badge/opensource%40nc3.lu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:opensource@nc3.lu)
 [![GitHub followers](https://img.shields.io/github/followers/NC3-LU?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/NC3-LU)
+
+</div>
 
 ---
 
