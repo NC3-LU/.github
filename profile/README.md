@@ -1,4 +1,4 @@
-![NC3-LU](https://github.com/NC3-LU.png)
+<img src="https://github.com/NC3-LU.png" alt="NC3-LU" width="160" style="border-radius: 50%;"/>
 
 # National Cybersecurity Competence Center Luxembourg
 
