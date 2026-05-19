@@ -124,6 +124,10 @@ For general inquiries or collaboration proposals, reach out at [opensource@nc3.l
 
 ---
 
+<div align="center">
+
 *Building a safer digital Luxembourg — one commit at a time.*
 
 📍 122 rue Adolphe Fischer, L-1521 Luxembourg &nbsp;|&nbsp; 📞 +352 274 00 98 601 &nbsp;|&nbsp; 🌐 [nc3.lu](https://nc3.lu)
+
+</div>
