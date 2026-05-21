@@ -38,7 +38,7 @@ NC3 develops and maintains an open-source cybersecurity portfolio spanning **thr
 | Project | Description | Language | License |
 |---------|-------------|----------|---------|
 | [**TestingPlatform**](https://github.com/NC3-LU/TestingPlatform) | Internet security standards testing platform | Python | AGPL-3.0 |
-| [**cyberfraud.lu**](https://github.com/NC3-LU/cyberfraud.lu) | Cyber fraud awareness portal for Luxembourg | TypeScript | — |
+| [**cyberfraud.lu**](https://github.com/NC3-LU/cyberfraud.lu) | Cyber fraud awareness portal for Luxembourg | TypeScript | AGPL-3.0 |
 | [**code.lhc.lu**](https://github.com/NC3-LU/code.lhc.lu) | Open-source at Luxembourg House of Cybersecurity | CSS | MIT |
 
 ---
